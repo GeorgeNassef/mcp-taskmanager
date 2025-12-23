@@ -12,8 +12,8 @@ importers:
         specifier: 0.5.0
         version: 0.5.0
       chalk:
-        specifier: ^5.3.0
-        version: 5.4.1
+        specifier: ^5.6.2
+        version: 5.6.2
       glob:
         specifier: ^10.3.10
         version: 10.4.5
@@ -85,8 +85,8 @@ packages:
     resolution: {integrity: sha512-/Nf7TyzTx6S3yRJObOAV7956r8cr2+Oj8AC5dt8wSP3BQAoeX58NoHyCU8P8zGkNXStjTSi6fzO6F0pBdcYbEg==}
     engines: {node: '>= 0.8'}
 
-  chalk@5.4.1:
-    resolution: {integrity: sha512-zgVZuo2WcZgfUEmsn6eO3kINexW8RAE4maiQ8QNs8CtpPCSyMiYsULR3HQYkm3w8FIA3SberyMJMSldGsW+U3w==}
+  chalk@5.6.2:
+    resolution: {integrity: sha512-7NzBL0rN6fMUW+f7A6Io4h40qQlG+xGmtMxfbnH/K7TAtt8JQWVQK+6g0UXKMeVJoyV5EkkNsErQ8pVD3bLHbA==}
     engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
 
   color-convert@2.0.1:
@@ -367,7 +367,7 @@ snapshots:
 
   bytes@3.1.2: {}
 
-  chalk@5.4.1: {}
+  chalk@5.6.2: {}
 
   color-convert@2.0.1:
     dependencies:
